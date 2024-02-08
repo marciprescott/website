@@ -1,0 +1,39 @@
+body {
+    background-color: #c5efaa;
+    color: rgb(204, 3, 197);
+}
+
+header {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+}
+
+nav {
+    background-color: #ddd;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: navy;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
